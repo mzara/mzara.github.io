@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+body h1
+{
+	padding: 5px;
+	text-align: center;
+	font-size: 50px;
+}
+body header p:last-child
+{
+	font-size: 15px;
+	text-align: center;
+}
+body article
+{
+	width: 800px;
+	background-color: white;
+}
